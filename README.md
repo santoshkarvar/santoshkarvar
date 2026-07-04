@@ -48,5 +48,5 @@ A passionate Computer Engineer specializing in building scalable full-stack web 
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- 💼 **LinkedIn:** [LinkedIn - Santosh Karvar](https://www.linkedin.com/in/santosh-karvar)
 - 📧 **Email:** santoshkarvar8@gmail.com
